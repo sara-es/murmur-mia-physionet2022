@@ -1,0 +1,30 @@
+
+
+
+# Byte-compiled and DLL files (no notebooks!)
+*.ipynb
+.ipynb_checkpoints
+__pycache__/
+*.py[cod]
+*.code-workspace
+.idea/
+.vscode/
+
+# folders, e.g. training data
+**/training_data
+**/test_data
+**/models
+**/output
+**/splits
+**/test_outputs
+**/split[0-9]
+**/preprocessed_data
+**/results
+**/.vscode
+**/.ipynb_checkpoints
+
+# Batch files
+train_eval_model
+imputation_test.py
+*.csv
+*.pth
