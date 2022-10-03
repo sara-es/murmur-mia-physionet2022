@@ -4,7 +4,7 @@
 
 This code is available for reuse and modification under the [2-Clause BSD License](https://opensource.org/licenses/BSD-2-Clause). If you find any portion of it helpful, we ask that you please cite our accompanying paper: [Two-stage Classification for Detecting Murmurs from Phonocardiograms Using Deep and Expert Features]().
 
-> Summerton, S., Wood, D., Murphy, D., Redfern, O., Benatan, M., Kaisti, M., & Wong, D. C. (2022). Two-stage Classification for Detecting Murmurs from Phonocardiograms Using Deep and Expert Features. Computing in Cardiology 2022, 1–4. *Preprint, final to be released with conference proceedings.*
+> Summerton, S., Wood, D., Murphy, D., Redfern, O., Benatan, M., Kaisti, M., & Wong, D. C. (2022). Two-stage Classification for Detecting Murmurs from Phonocardiograms Using Deep and Expert Features. In 2022 Computing in Cardiology (CinC), volume 49. IEEE, 2023; 1–4.
 
 ## Model and hyperparameter description
 
