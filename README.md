@@ -1,6 +1,6 @@
 # Python classifier code from team Murmur Mia! for the George B. Moody PhysioNet Challenge 2022
 
-**This is the submission selected for evaluation on the hidden test set. Overall this code achieved a weighted murmur score of 0.755, ranking 9/39, and an outcome score of 14228, ranking 28/39, on the test data.**
+**This is the submission selected for evaluation on the hidden test set. Overall this code achieved a weighted murmur score of 0.755, ranking 9/40, and an outcome score of 14228, ranking 28/39, on the test data.**
 
 This code is available for reuse and modification under the [2-Clause BSD License](https://opensource.org/licenses/BSD-2-Clause). If you find any portion of it helpful, we ask that you please cite our accompanying paper: [Two-stage Classification for Detecting Murmurs from Phonocardiograms Using Deep and Expert Features]().
 
