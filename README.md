@@ -6,7 +6,7 @@ This code is available for reuse and modification under the [2-Clause BSD Licens
 
 > Summerton, S., Wood, D., Murphy, D., Redfern, O., Benatan, M., Kaisti, M., & Wong, D. C. (2022). Two-stage Classification for Detecting Murmurs from Phonocardiograms Using Deep and Expert Features. In 2022 Computing in Cardiology (CinC), volume 49. IEEE, 2023; 1–4.
 
-A standalone version of the adapted [Springer HSMM-based segmentation](https://ieeexplore.ieee.org/document/7234876/) code can be found [here](https://github.com/EchoStatements/Springer-Segmentation-Python). Please treat it as a part of this code and cite [our CinC paper](https://cinc.org/2022/Program/accepted/322_Preprint.pdf) if you find it useful.
+A standalone version of the adapted [Springer HSMM-based segmentation](https://ieeexplore.ieee.org/document/7234876/) code can be found [here](https://github.com/EchoStatements/Springer-Segmentation-Python). Please treat it as a part of this project and similarly cite [our CinC paper](https://cinc.org/2022/Program/accepted/322_Preprint.pdf) if you find it useful.
 
 ## Model and hyperparameter description
 
