@@ -2,9 +2,11 @@
 
 **This is the submission selected for evaluation on the hidden test set. Overall this code achieved a weighted murmur score of 0.755, ranking 9/40, and an outcome score of 14228, ranking 28/39, on the test data.**
 
-This code is available for reuse and modification under the [2-Clause BSD License](https://opensource.org/licenses/BSD-2-Clause). If you find any portion of it helpful, we ask that you please cite our accompanying paper: [Two-stage Classification for Detecting Murmurs from Phonocardiograms Using Deep and Expert Features]().
+This code is available for reuse and modification under the [2-Clause BSD License](https://opensource.org/licenses/BSD-2-Clause). If you find any portion of it helpful, we ask that you please cite our accompanying CinC paper: [Two-stage Classification for Detecting Murmurs from Phonocardiograms Using Deep and Expert Features](https://cinc.org/2022/Program/accepted/322_Preprint.pdf).
 
 > Summerton, S., Wood, D., Murphy, D., Redfern, O., Benatan, M., Kaisti, M., & Wong, D. C. (2022). Two-stage Classification for Detecting Murmurs from Phonocardiograms Using Deep and Expert Features. In 2022 Computing in Cardiology (CinC), volume 49. IEEE, 2023; 1–4.
+
+A standalone version of the adapted [Springer HSMM-based segmentation](https://ieeexplore.ieee.org/document/7234876/) code can be found [here](https://github.com/EchoStatements/Springer-Segmentation-Python). Please treat it as a part of this code and cite [our CinC paper](https://cinc.org/2022/Program/accepted/322_Preprint.pdf) if you find it useful.
 
 ## Model and hyperparameter description
 
